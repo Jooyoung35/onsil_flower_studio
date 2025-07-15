@@ -19,6 +19,7 @@ body{
     color: white;
     box-sizing: border-box;
     padding-top: 250px;
+    margin-top: 30px;
 }
 #section .sec1 .mainheading,
 #section .sec1 .subheading{
