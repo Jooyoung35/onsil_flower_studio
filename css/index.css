@@ -266,7 +266,7 @@ body {
 }
 
 
-#section .florists{
+/* #section .florists{
     width: 85%;
     margin: 250px auto 0;
 }
@@ -289,7 +289,6 @@ body {
 }
 #section .florists .flo-img-area img:hover{
     transform: translateY(-10px);
-    /* transform: rotate(5deg); */
 }
 #section .florists .flo-txt-area{
     text-align: center;
@@ -329,7 +328,7 @@ body {
 }
 #section .florists .flo-txt-area button:hover a{
     color:#fff;
-}
+} */
 
 
 
@@ -362,7 +361,7 @@ body {
     overflow: hidden;
 }
 #section .insta .insta-cont swiper-slide{
-    width: auto;
+    width: 320px;
     /* height: 300px; */
     overflow: hidden;
     border-radius: 50px;
@@ -534,6 +533,11 @@ body {
         margin: 80px auto 0;
     }
     #section .insta .insta-cont swiper-slide{
+        /* width: 95%; */
         margin-left: 0px;
+    }
+    #section .insta .insta-cont swiper-slide img{
+        width: 100%;
+        margin: 0 auto;
     }
 }
