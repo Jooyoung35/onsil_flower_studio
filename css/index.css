@@ -434,6 +434,9 @@ body {
     #section .cont3{
         margin-top: 150px;
     }
+    #section .cont3>ul{
+        background-attachment: scroll;
+    }
     #section .cont3>ul .c3_m_txt1{
         font-size: 22px;
         line-height: 30px;
