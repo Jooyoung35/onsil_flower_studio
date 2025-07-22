@@ -379,7 +379,7 @@ body {
 
 
 
-@media all  and (min-width:481) and (max-width:1020px){
+@media all  and (min-width:481px) and (max-width:1020px){
 
     #section .main-area .m-banner-txt p{
         font-size: 16px;
@@ -419,6 +419,11 @@ body {
         margin-bottom: 30px;
     }
 
+
+    
+
+
+
     #section .cont1{
         margin-top:150px;
     }
@@ -450,7 +455,7 @@ body {
         margin-top: 150px;
     }
     #section .insta .insta-cont swiper-slide {
-        margin-left: 0px;
+        margin-left: 10px;
     }
 }
 
@@ -497,6 +502,8 @@ body {
         font-size: 24px;
         margin-bottom: 30px;
     }
+
+
 
     #section .cont1{
         margin-top:150px;
